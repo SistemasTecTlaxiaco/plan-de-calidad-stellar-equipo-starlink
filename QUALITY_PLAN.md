@@ -38,12 +38,12 @@
 
 | Rol                            | Persona / Equipo | Tareas específicas                                                                                                                                                      |
 | ------------------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gerente de Calidad             | …                | Asegurar que todo el plan se cumpla; aprobar versiones importantes; coordinación con seguridad auditoría.                                                               |
-| Líder Técnico (Rust / Soroban) | …                | Supervisar desarrollo de contratos; definir interfaces y APIs; revisión de código; optimización de gas y rendimiento.                                                   |
-| Responsable Off-chain          | …                | Garantizar que los módulos off-chain (por ejemplo utilitarios, scripts) cumplan estándares de seguridad, pruebas e integración.                                         |
-| QA / Tester                    | …                | Escribir y ejecutar pruebas unitarias, de integración; tests de seguridad; pruebas de contrato en ambientes de prueba de Soroban; detectar regresiones.                 |
-| DevOps / Infraestructura       | …                | Configurar CI/CD para contratos y módulos off-chain; desplegar en testnet / staging; monitoreo; rollback; control de versiones.                                         |
-| Documentación / Comunidad      | …                | Mantener README, CONTRIBUTING, guía de contratos; asegurar que los desarrolladores externos puedan entender cómo contribuir; actualizar documentación con cada release. |
+| Gerente de Calidad             |Ariadna                | Asegurar que todo el plan se cumpla; aprobar versiones importantes; coordinación con seguridad auditoría.                                                               |
+| Líder Técnico (Rust / Soroban) | Evelyn              | Supervisar desarrollo de contratos; definir interfaces y APIs; revisión de código; optimización de gas y rendimiento.                                                   |
+| Responsable Off-chain          | Uriel               | Garantizar que los módulos off-chain (por ejemplo utilitarios, scripts) cumplan estándares de seguridad, pruebas e integración.                                         |
+| QA / Tester                    | Kevin               | Escribir y ejecutar pruebas unitarias, de integración; tests de seguridad; pruebas de contrato en ambientes de prueba de Soroban; detectar regresiones.                 |
+| DevOps / Infraestructura       | Ariadna               | Configurar CI/CD para contratos y módulos off-chain; desplegar en testnet / staging; monitoreo; rollback; control de versiones.                                         |
+| Documentación / Comunidad      |Evelyn| Mantener README, CONTRIBUTING, guía de contratos; asegurar que los desarrolladores externos puedan entender cómo contribuir; actualizar documentación con cada release. |
 
 ---
 
